@@ -1,0 +1,6 @@
+c:\users\ruiz\documents\visual studio 2012\Projects\Lotto Daw\Lotto Daw\bin\Debug\Lotto Daw.exe.config
+c:\users\ruiz\documents\visual studio 2012\Projects\Lotto Daw\Lotto Daw\bin\Debug\Lotto Daw.exe
+c:\users\ruiz\documents\visual studio 2012\Projects\Lotto Daw\Lotto Daw\bin\Debug\Lotto Daw.pdb
+c:\users\ruiz\documents\visual studio 2012\Projects\Lotto Daw\Lotto Daw\obj\Debug\Lotto Daw.csprojResolveAssemblyReference.cache
+c:\users\ruiz\documents\visual studio 2012\Projects\Lotto Daw\Lotto Daw\obj\Debug\Lotto Daw.exe
+c:\users\ruiz\documents\visual studio 2012\Projects\Lotto Daw\Lotto Daw\obj\Debug\Lotto Daw.pdb
